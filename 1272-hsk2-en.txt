@@ -1063,741 +1063,741 @@
 
 
 
-晴朗|/qínglǎng/|sunny
-情形|/qíngxing/|situation
-求|/qiú/|beg
-求婚|/qiúhūn/|Proposal
-求救|/qiújiù/|SOS
-求职|/qiúzhí/|Job search
-求助|/qiúzhù/|Help
-区分|/qūfēn/|distinguish
-渠道|/qúdào/|channel
-曲|/qǔ/|song
-娶|/qǔ/|Marry
-取代|/qǔdài/|replace
-趣味|/qùwèi/|taste
-圈|/quān/|lock up
-全程|/quánchéng/|Full process
-权力|/quánlì/|that power
-券|/quàn/|coupon
-缺陷|/quēxiàn/|defect
-确立|/quèlì/|establish
-群众|/qúnzhòng/|the masses
-燃料|/ránliào/|fuel
-染|/rǎn/|dye
-热点|/rèdiǎn/|Hot Topics
-热度|/rèdù/|heat
-热门|/rèmén/|Popular
-热水器|/rèshuǐqì/|water heater
-热线|/rèxiàn/|hotline
-热议|/rèyì/|Hotly debated
-人工智能|/réngōng zhìnéng/|AI
-人家|/rénjia/|other people
-人均|/rénjūn/|per capita
-人山人海|/rénshān-rénhǎi/|Crowds
-人士|/rénshì/|person
-人事|/rénshì/|personnel
-人为|/rénwéi/|Human
-人行道|/rénxíngdào/|sidewalk
-忍受|/rěnshòu/|Bear
-认错|/rèncuò/|Admitting mistakes
-认定|/rèndìng/|Determination
-认可|/rènkě/|Approval
-认同|/rèntóng/|Agree
-认知|/rènzhī/|cognition
-仍旧|/réngjiù/|Still
-日后|/rìhòu/|In the future
-日前|/rìqián/|Recently
-日夜|/rìyè/|day and night
-日益|/rìyì/|increasingly
-融合|/rónghé/|Fusion
-融化|/rónghuà/|melt
-容量|/róngliàng/|capacity
-融入|/róngrù/|Integration
-荣誉|/róngyù/|honor
-柔软|/róuruǎn/|soft
-入境|/rùjìng/|Entry
-入门|/rùmén/|getting Started
-入选|/rùxuǎn/|Selected
-弱点|/ruòdiǎn/|weakness
-撒|/sǎ/|spread
-塞|/sāi/|sluice
-赛事|/sàishì/|Event
-散|/sǎn/|Scattered
-散文|/sǎnwén/|prose
-散|/sàn/|Scattered
-散发|/sànfā/|Disperse
-嗓子|/sǎngzi/|voice
-丧失|/sàngshī/|loss
-扫描|/sǎomiáo/|scanning
-杀|/shā/|kill
-刹车|/shāchē/|brake
-鲨鱼|/shāyú/|shark
-筛选|/shāixuǎn/|filter
-山顶|/shāndǐng/|Mountain Top
-山峰|/shānfēng/|mountain peak
-山坡|/shānpō/|hillside
-闪|/shǎn/|flash
-闪电|/shǎndiàn/|lightning
-扇|/shàn/|fan
-商标|/shāngbiāo/|trademark
-伤口|/shāngkǒu/|Wound
-伤亡|/shāngwáng/|casualties
-伤员|/shāngyuán/|wounded
-上当|/shàngdàng/|Be fooled
-上级|/shàngjí/|superior
-上进|/shàngjìn/|Ambitious
-上市|/shàngshì/|Listing
-上述|/shàngshù/|The above
-上台|/shàngtái/|Go on stage
-上旬|/shàngxún/|Early ten days
-少儿|/shào’ér/|Children
-舌头|/shétou/|Tongue
-社|/shè/|society
-射|/shè/|shoot
-涉及|/shèjí/|Involving
-射击|/shèjī/|shooting
-摄像|/shèxiàng/|Camera
-设想|/shèxiǎng/|Imagine
-摄像头|/shèxiàngtóu/|Camera
-身心|/shēnxīn/|body and mind
-深夜|/shēnyè/|late at night
-神|/shén/|god
-神经|/shénjīng/|nerve
-神奇|/shénqí/|magic
-审美|/shěnměi/|Aesthetics
-升|/shēng/|Lift
-生成|/shēngchéng/|generate
-声调|/shēngdiào/|tone
-生命力|/shēngmìnglì/|vitality
-生态|/shēngtài/|Ecology
-升学|/shēngxué/|School Admission
-剩余|/shèngyú/|Remaining
-诗词|/shīcí/|Poetry
-湿度|/shīdù/|humidity
-师父|/shīfu/|Master
-诗歌|/shīgē/|Poetry
-狮子|/shīzi/|lion
-识|/shí/|knowledge
-拾|/shí/|pickup
-识别|/shíbié/|Identification
-时光|/shíguāng/|Time
-实话|/shíhuà/|truth
-实惠|/shíhuì/|Affordable
-时机|/shíjī/|opportunity
-时尚|/shíshàng/|Fashion
-实时|/shíshí/|real time
-时速|/shísù/|speed
-石油|/shíyóu/|oil
-食欲|/shíyù/|appetite
-实质|/shízhì/|substance
-十足|/shízú/|Full
-使劲|/shǐjìn/|exert force
-士兵|/shìbīng/|Soldier
-适度|/shìdù/|Moderate
-示范|/shìfàn/|demonstration
-释放|/shìfàng/|release
-事后|/shìhòu/|afterwards
-视觉|/shìjué/|Visual
-势力|/shìlì/|power
-视力|/shìlì/|vision
-试图|/shìtú/|attempt
-事务|/shìwù/|transactions
-事项|/shìxiàng/|matter
-适宜|/shìyí/|suitable
-收藏|/shōucáng/|collect
-收购|/shōugòu/|Acquisition
-收取|/shōuqǔ/|Collect
-收益|/shōuyì/|income
-手臂|/shǒubì/|arm
-手法|/shǒufǎ/|Technique
-手势|/shǒushì/|gesture
-首要|/shǒuyào/|First
-寿命|/shòumìng/|life
-受灾|/shòuzāi/|Disaster
-输出|/shūchū/|Output
-书画|/shūhuà/|painting and calligraphy
-书籍|/shūjí/|books
-书面|/shūmiàn/|written
-输送|/shūsòng/|delivery
-书写|/shūxiě/|write
-属|/shǔ/|genus
-薯片|/shǔpiàn/|potato chips
-竖|/shù/|vertical
-树立|/shùlì/|Establish
-数目|/shùmù/|number
-数字化|/shùzìhuà/|Digitalization
-衰老|/shuāilǎo/|senescence
-率领|/shuàilǐng/|Lead
-率先|/shuàixiān/|First
-水稻|/shuǐdào/|rice
-水库|/shuǐkù/|reservoir
-水流|/shuǐliú/|Water flow
-水面|/shuǐmiàn/|water surface
-水泥|/shuǐní/|cement
-瞬间|/shùnjiān/|moment
-思路|/sīlù/|Ideas
-思念|/sīniàn/|miss
-死亡|/sǐwáng/|die
-松|/sōng/|loose
-艘|/sōu/|ships
-搜集|/sōují/|collect
-塑造|/sùzào/|shape
-素质|/sùzhì/|quality
-算了|/suànle/|never mind
-算是|/suànshì/|It can be considered
-虽|/suī/|although
-岁数|/suìshu/|age
-岁月|/suìyuè/|years
-损坏|/sǔnhuài/|damage
-损伤|/sǔnshāng/|damage
-所|/suǒ/|Place
-踏实|/tāshi/|down-to-earth
-塔|/tǎ/|tower
-台风|/táifēng/|typhoon
-台球|/táiqiú/|billiards
-太空|/tàikōng/|Space
-太阳能|/tàiyángnéng/|Solar energy
-谈论|/tánlùn/|talk
-谈判|/tánpàn/|negotiation
-弹性|/tánxìng/|elasticity
-探索|/tànsuǒ/|explore
-探讨|/tàntǎo/|Discussion
-汤圆|/tāngyuán/|sweet dumpling
-糖果|/tángguǒ/|candy
-烫|/tàng/|hot
-掏|/tāo/|dig
-逃|/táo/|escape
-逃跑|/táopǎo/|escape
-淘气|/táoqì/|naughty
-淘汰|/táotài/|disuse
-套餐|/tàocān/|combo
-特|/tè/|special
-特长|/tècháng/|Special skills
-特地|/tèdì/|specially
-特定|/tèdìng/|specific
-特性|/tèxìng/|characteristic
-特意|/tèyì/|specially
-题材|/tícái/|theme
-提取|/tíqǔ/|extract
-提示|/tíshì/|hint
-体操|/tǐcāo/|gymnastics
-体积|/tǐjī/|volume
-体系|/tǐxì/|system
-添|/tiān/|add
-天才|/tiāncái/|genius
-添加|/tiānjiā/|Add to
-天然|/tiānrán/|natural
-天然气|/tiānránqì/|natural gas
-天文|/tiānwén/|astronomical
-天下|/tiānxià/|The world
-天真|/tiānzhēn/|Innocent
-田|/tián/|field
-田径|/tiánjìng/|track and field
-调节|/tiáojié/|adjust
-跳水|/tiàoshuǐ/|diving
-贴近|/tiējìn/|Close
-听话|/tīnghuà/|obedient
-听觉|/tīngjué/|Hearing
-听取|/tīngqǔ/|listen to
-通道|/tōngdào/|aisle
-通风|/tōngfēng/|ventilation
-通话|/tōnghuà/|call
-通信|/tōngxìn/|communication
-通讯|/tōngxùn/|communication
-通用|/tōngyòng/|General
-铜|/tóng/|copper
-同伴|/tóngbàn/|companion
-同行|/tóngháng/|peers
-童话|/tónghuà/|fairy tale
-同类|/tónglèi/|similar
-铜牌|/tóngpái/|bronze medal
-痛快|/tòngkuài/|happy
-偷|/tōu/|steal
-偷偷|/tōutōu/|secretly
-头脑|/tóunǎo/|mind
-投票|/tóupiào/|vote
-投诉|/tóusù/|complaint
-投资|/tóuzī/|invest
-透|/tòu/|through
-透过|/tòuguò/|Through
-透露|/tòulù/|disclose
-透明|/tòumíng/|transparent
-突发|/tūfā/|sudden
-突破|/tūpò/|breakthrough
-图案|/tú’àn/|pattern
-图表|/túbiǎo/|chart
-徒弟|/túdì/|apprentice
-途径|/tújìng/|way
-图像|/túxiàng/|image
-吐|/tǔ/|vomit
-土壤|/tǔrǎng/|soil
-吐|/tù/|vomit
-团结|/tuánjié/|Unity
-团体|/tuántǐ/|group
-团圆|/tuányuán/|reunion
-推测|/tuīcè/|speculation
-推销|/tuīxiāo/|sell
-推行|/tuīxíng/|Promote
-退税|/tuìshuì/|Tax refund
-吞|/tūn/|swallow
-拖|/tuō/|drag
-拖延|/tuōyán/|procrastination
-托运|/tuōyùn/|Check-in
-挖|/wā/|dig
-哇|/wā/|Wow
-娃娃|/wáwa/|baby
-歪|/wāi/|crooked
-外表|/wàibiǎo/|Appearance
-外交|/wàijiāo/|diplomatic
-外界|/wàijiè/|outside world
-外科|/wàikē/|surgical
-外来|/wàilái/|foreign
-外甥|/wàisheng/|nephew
-弯曲|/wānqū/|bending
-顽强|/wánqiáng/|tenacious
-万物|/wànwù/|Everything
-王子|/wángzǐ/|prince
-网|/wǎng/|net
-往后|/wǎnghòu/|later
-往来|/wǎnglái/|contacts
-往年|/wǎngnián/|in previous years
-望|/wàng/|see
-危机|/wēijī/|crisis
-微小|/wēixiǎo/|small
-违规|/wéiguī/|Violation
-维护|/wéihù/|maintain
-为难|/wéinán/|Difficult
-围棋|/wéiqí/|Go
-为期|/wéiqī/|For a period of time
-维生素|/wéishēngsù/|Vitamins
-为止|/wéizhǐ/|until
-委屈|/wěiqu/|Wronged
-委托|/wěituō/|Entrust
-未|/wèi/|not yet
-未必|/wèibì/|not necessarily
-未成年人|/wèichéngniánrén/|minors
-为此|/wèicǐ/|to this end
-为何|/wèihé/|Why
-味觉|/wèijué/|taste
-胃口|/wèikǒu/|appetite
-温和|/wēnhé/|mild
-温柔|/wēnróu/|gentle
-文档|/wéndàng/|document
-文具|/wénjù/|Stationery
-文科|/wénkē/|liberal arts
-文明|/wénmíng/|civilization
-闻名|/wénmíng/|famous
-文物|/wénwù/|cultural relics
-文献|/wénxiàn/|literature
-文艺|/wényì/|Literature and Art
-乌龟|/wūguī/|turtle
-污水|/wūshuǐ/|sewage
-无所谓|/wúsuǒwèi/|It doesn't matter
-无疑|/wúyí/|undoubtedly
-武器|/wǔqì/|arms
-误|/wù/|error
-误解|/wùjiě/|misunderstanding
-物体|/wùtǐ/|object
-吸取|/xīqǔ/|draw
-媳妇|/xífu/|daughter in law
-习俗|/xísú/|custom
-喜剧|/xǐjù/|comedy
-喜事|/xǐshì/|happy event
-洗漱|/xǐshù/|Washing
-细胞|/xìbāo/|cell
-细菌|/xìjūn/|bacteria
-系列|/xìliè/|series
-戏曲|/xìqǔ/|drama
-细致|/xìzhì/|meticulous
-吓|/xià/|scare
-下功夫|/xià gōngfu/|Put in the effort
-下单|/xiàdān/|Place an order
-夏令营|/xiàlìngyíng/|Summer Camp
-下线|/xiàxiàn/|Offline
-下旬|/xiàxún/|late
-鲜明|/xiānmíng/|vivid
-先前|/xiānqián/|previously
-鲜艳|/xiānyàn/|bright
-嫌|/xián/|Dislike
-显|/xiǎn/|Manifest
-险|/xiǎn/|risk
-显著|/xiǎnzhù/|Significant
-限|/xiàn/|limit
-线|/xiàn/|Wire
-现存|/xiàncún/|Existing
-限度|/xiàndù/|limit
-现货|/xiànhuò/|Spot goods
-陷入|/xiànrù/|Fall into
-线索|/xiànsuǒ/|clue
-限于|/xiànyú/|Limited to
-相差|/xiāngchà/|difference
-香肠|/xiāngcháng/|sausage
-相传|/xiāngchuán/|Legend has it that
-相等|/xiāngděng/|equal
-相连|/xiānglián/|Connected
-香水|/xiāngshuǐ/|perfume
-相应|/xiāngyìng/|corresponding
-项链|/xiàngliàn/|necklace
-象棋|/xiàngqí/|Chess
-相声|/xiàngsheng/|crosstalk
-向往|/xiàngwǎng/|Yearning
-消除|/xiāochú/|eliminate
-消毒|/xiāodú/|disinfect
-消防|/xiāofáng/|fire protection
-消耗|/xiāohào/|Consumption
-消灭|/xiāomiè/|wipe out
-小麦|/xiǎomài/|wheat
-小气|/xiǎoqi/|mean
-小偷儿|/xiǎotōur/|thief
-笑容|/xiàoróng/|smile
-效应|/xiàoyìng/|effect
-歇|/xiē/|rest
-携带|/xiédài/|carry
-协会|/xiéhuì/|association
-协调|/xiétiáo/|coordination
-协助|/xiézhù/|assist
-心爱|/xīn’ài/|beloved
-心底|/xīndǐ/|In my heart
-新款|/xīnkuǎn/|New model
-心灵|/xīnlíng/|soul
-新媒体|/xīnméitǐ/|New Media
-心目|/xīnmù/|mind
-新能源|/xīnnéngyuán/|New energy
-薪水|/xīnshuǐ/|salary
-心疼|/xīnténg/|Heartache
-新兴|/xīnxīng/|new
-新颖|/xīnyǐng/|novel
-心愿|/xīnyuàn/|wish
-心脏|/xīnzàng/|heart
-信赖|/xìnlài/|trust
-信念|/xìnniàn/|belief
-兴起|/xīngqǐ/|Rise
-型号|/xínghào/|model
-形态|/xíngtài/|form
-性价比|/xìngjiàbǐ/|Cost-effectiveness
-性能|/xìngnéng/|performance
-胸|/xiōng/|chest
-修订|/xiūdìng/|Revision
-修复|/xiūfù/|repair
-袖子|/xiùzi/|sleeve
-许可|/xǔkě/|license
-叙述|/xùshù/|Narrative
-旋转|/xuánzhuǎn/|Rotation
-选拔|/xuǎnbá/|Selection
-选修|/xuǎnxiū/|elective
-学会|/xuéhuì/|learn
-学位|/xuéwèi/|Bachelor of Science
-学问|/xuéwen/|knowledge
-学员|/xuéyuán/|Students
-血管|/xuèguǎn/|Blood vessel
-血型|/xuèxíng/|blood type
-血压|/xuèyā/|blood pressure
-血液|/xuèyè/|blood
-循环|/xúnhuán/|cycle
-寻求|/xúnqiú/|seek
-压缩|/yāsuō/|compression
-亚军|/yàjūn/|runner up
-淹|/yān/|Flood
-淹没|/yānmò/|Submerged
-严|/yán/|strict
-沿海|/yánhǎi/|coastal
-严寒|/yánhán/|severe cold
-严禁|/yánjìn/|Strictly prohibited
-严厉|/yánlì/|severe
-延期|/yánqī/|postpone
-炎热|/yánrè/|hot
-延伸|/yánshēn/|extend
-研讨|/yántǎo/|seminar
-延续|/yánxù/|continue
-言语|/yányǔ/|speech
-炎症|/yánzhèng/|inflammation
-眼光|/yǎnguāng/|vision
-眼看|/yǎnkàn/|Seeing
-演奏|/yǎnzòu/|play
-宴会|/yànhuì/|banquet
-验证|/yànzhèng/|verify
-仰|/yǎng/|Looking up
-痒|/yǎng/|itch
-养老|/yǎnglǎo/|Elderly care
-养老院|/yǎnglǎoyuàn/|nursing homes
-氧气|/yǎngqì/|oxygen
-样|/yàng/|Sample
-遥远|/yáoyuǎn/|distant
-要点|/yàodiǎn/|Key Points
-要么|/yàome/|Or
-要素|/yàosù/|elements
-野|/yě/|wild
-也好|/yěhǎo/|That's fine.
-野生|/yěshēng/|wild
-野外|/yěwài/|field
-业|/yè/|Industry
-液体|/yètǐ/|liquid
-依旧|/yījiù/|still
-依赖|/yīlài/|rely
-一流|/yīliú/|First-class
-衣食住行|/yī-shí-zhù-xíng/|Clothing, food, housing and transportation
-医药|/yīyào/|medicine
-一一|/yīyī/|all
-姨|/yí/|Aunt
-一辈子|/yíbèizi/|lifetime
-遗产|/yíchǎn/|heritage
-遗传|/yíchuán/|Heredity
-一带|/yídài/|Belt and Road
-一道|/yídào/|One
-一贯|/yíguàn/|consistent
-疑惑|/yíhuò/|Confuse
-一律|/yílǜ/|All
-移民|/yímín/|migrant
-仪器|/yíqì/|instrument
-仪式|/yíshì/|ceremony
-一向|/yíxiàng/|Always
-一系列|/yíxìliè/|A series
-一再|/yízài/|repeatedly
-一阵|/yízhèn/|A burst
-遗址|/yízhǐ/|Ruins
-以便|/yǐbiàn/|so that
-以免|/yǐmiǎn/|so as not to
-以往|/yǐwǎng/|in the past
-异常|/yìcháng/|abnormal
-益处|/yìchù/|benefit
-一帆风顺|/yīfān-fēngshùn/|Smooth sailing
-一口气|/yìkǒuqì/|In one breath
-议论|/yìlùn/|talk
-一模一样|/yìmú-yíyàng/|Exactly the same
-艺人|/yìrén/|artist
-一身|/yìshēn/|One body
-一时|/yìshí/|For a time
-一同|/yìtóng/|together
-易于|/yìyú/|Easy
-抑制|/yìzhì/|inhibition
-因|/yīn/|because
-音节|/yīnjié/|syllable
-银|/yín/|silver
-银牌|/yínpái/|silver medal
-引|/yǐn/|lead
-隐藏|/yǐncáng/|hide
-引导|/yǐndǎo/|guide
-引发|/yǐnfā/|Trigger
-引入|/yǐnrù/|Introduction
-隐私|/yǐnsī/|privacy
-饮用水|/yǐnyòngshuǐ/|drinking water
-印|/yìn/|print
-婴儿|/yīng’ér/|baby
-英雄|/yīngxióng/|hero
-影子|/yǐngzi/|shadow
-拥挤|/yōngjǐ/|Crowded
-涌现|/yǒngxiàn/|Emergence
-勇于|/yǒngyú/|Courage
-用餐|/yòngcān/|Dining
-用处|/yòngchù/|usefulness
-用功|/yònggōng/|Diligent
-用人|/yòngrén/|personnel
-用心|/yòngxīn/|With heart
-优化|/yōuhuà/|optimization
-优先|/yōuxiān/|priority
-优异|/yōuyì/|Excellent
-由来|/yóulái/|origin
-游人|/yóu rén/|tourists
-犹如|/yóu rú/|Like
-有机|/yǒu jī/|organic
-有劲|/yǒu jìn/|energetic
-有序|/yǒu xù/|orderly
-于|/yú/|At
-余额|/yú é/|Balance
-与其|/yǔ qí/|With
-羽绒服|/yǔ róng fú/|down jacket
-预定|/yù dìng/|Reserve
-预料|/yù liào/|Expected
-预期|/yù qī/|expected
-浴室|/yù shì/|bathroom
-欲望|/yù wàng/|desire
-原本|/yuán běn/|original
-原材料|/yuán cái liào/|raw materials
-原理|/yuán lǐ/|principle
-原料|/yuán liào/|raw material
-园林|/yuán lín/|garden
-圆满|/yuán mǎn/|Perfect
-原始|/yuán shǐ/|original
-元素|/yuán sù/|element
-原先|/yuán xiān/|original
-元宵|/yuán xiāo/|Lantern Festival
-源于|/yuán yú/|Origin
-远程|/yuǎn chéng/|remote
-远方|/yuǎn fāng/|distance
-约束|/yuē shù/|constraint
-月光|/yuè guāng/|moonlight
-乐器|/yuè qì/|musical instruments
-月球|/yuè qiú/|Moon
-乐曲|/yuè qǔ/|Music
-晕|/yūn/|faint
-晕车|/yùn chē/|motion sickness
-运送|/yùn sòng/|transport
-运行|/yùn xíng/|run
-运营|/yùn yíng/|operations
-杂|/zá/|miscellaneous
-灾|/zāi/|disaster
-灾害|/zāi hài/|disaster
-灾难|/zāi nàn/|disaster
-灾区|/zāi qū/|disaster area
-再三|/zài sān/|repeatedly
-再生|/zài shēng/|regeneration
-在意|/zài yì/|care
-赞赏|/zàn shǎng/|Appreciation
-赞同|/zàn tóng/|Agreed
-遭到|/zāo dào/|Encountered
-遭受|/zāo shòu/|suffer
-遭遇|/zāo yù/|encounter
-噪声|/zào shēng/|noise
-造型|/zào xíng/|modeling
-则|/zé/|but
-扎|/zhā/|tie
-炸|/zhà/|fry
-粘|/zhān/|stick
-粘贴|/zhān tiē/|Paste
-崭新|/zhǎn xīn/|Brand new
-占比|/zhàn bǐ/|percentage
-战斗|/zhàn dòu/|fighting
-占据|/zhàn jù/|occupy
-战胜|/zhàn shèng/|Victory
-占有|/zhàn yǒu/|Possession
-战争|/zhàn zhēng/|war
-章|/zhāng/|chapter
-长辈|/zhǎng bèi/|elder
-障碍|/zhàng ài/|obstacle
-账单|/zhàng dān/|bill
-招|/zhāo/|trick
-招待|/zhāo dài/|entertain
-招生|/zhāo shēng/|Admissions
-招手|/zhāo shǒu/|wave
-招收|/zhāo shōu/|recruit
-照明|/zhào míng/|illumination
-折|/zhé/|fold
-针|/zhēn/|Needle
-真相|/zhēn xiàng/|the truth
-珍珠|/zhēn zhū/|pearl
-枕头|/zhěn tou/|Pillow
-镇|/zhèn/|town
-阵雨|/zhèn yǔ/|shower
-睁|/zhēng/|open eyes
-争吵|/zhēng chǎo/|quarrel
-争夺|/zhēng duó/|struggle
-争论|/zhēng lùn/|debate
-征求|/zhēng qiú/|seek
-争议|/zhēng yì/|dispute
-政策|/zhèng cè/|policy
-正规|/zhèng guī/|regular
-正面|/zhèng miàn/|front
-证实|/zhèng shí/|Confirmed
-正义|/zhèng yì/|justice
-症状|/zhèng zhuàng/|symptom
-支|/zhī/|branch
-枝|/zhī/|branch
-支撑|/zhī chēng/|support
-支出|/zhī chū/|expenditure
-脂肪|/zhī fáng/|Fat
-之所以|/zhī suǒ yǐ/|Why
-值班|/zhí bān/|On duty
-职位|/zhí wèi/|Position
-职务|/zhí wù/|Job
-职员|/zhí yuán/|staff
-职责|/zhí zé/|Duties
-侄子|/zhí zi/|nephew
-只得|/zhǐ dé/|Only
-指定|/zhǐ dìng/|Specify
-只顾|/zhǐ gù/|Only care
-指挥|/zhǐ huī/|command
-指示|/zhǐ shì/|instruct
-指责|/zhǐ zé/|Accusation
-制|/zhì/|system
-至关重要|/zhì guān zhòng yào/|Important
-智力|/zhì lì/|intelligence
-治理|/zhì lǐ/|governance
-制品|/zhì pǐn/|Products
-秩序|/zhì xù/|order
-质疑|/zhì yí/|question
-至于|/zhì yú/|As for
-中等|/zhōng děng/|medium
-终点|/zhōng diǎn/|end
-中断|/zhōng duàn/|Interruption
-终身|/zhōng shēn/|lifelong
-钟头|/zhōng tóu/|hour
-中旬|/zhōng xún/|Mid-month
-中央|/zhōng yāng/|central
-肿|/zhǒng/|swell
-中|/zhòng/|middle
-种地|/zhòng dì/|Farming
-中毒|/zhòng dú/|Poisoning
-中奖|/zhòng jiǎng/|Winning the lottery
-众人|/zhòng rén/|Everyone
-中暑|/zhòng shǔ/|heatstroke
-众所周知|/zhòng suǒ zhōu zhī/|As is well known
-重心|/zhòng xīn/|Center of gravity
-州|/zhōu/|state
-粥|/zhōu/|Porridge
-周边|/zhōu biān/|Surrounding area
-周到|/zhōu dào/|thoughtful
-周期|/zhōu qī/|cycle
-株|/zhū/|strain
-珠宝|/zhū bǎo/|Jewelry
-诸多|/zhū duō/|Many
-主办|/zhǔ bàn/|host
-主播|/zhǔ bō/|anchor
-主导|/zhǔ dǎo/|leading
-主管|/zhǔ guǎn/|director
-主角|/zhǔ jué/|main character
-主流|/zhǔ liú/|mainstream
-主演|/zhǔ yǎn/|Leading actor
-主张|/zhǔ zhāng/|advocacy
-祝福|/zhù fú/|bless
-助理|/zhù lǐ/|assistant
-助手|/zhù shǒu/|assistant
-祝愿|/zhù yuàn/|wish
-住宅|/zhù zhái/|Residential
-著作|/zhù zuò/|book
-砖|/zhuān/|brick
-专科|/zhuān kē/|Associate Degree
-专利|/zhuān lì/|patent
-专题|/zhuān tí/|Special Topic
-专用|/zhuān yòng/|dedicated
-专注|/zhuān zhù/|Focus
-转换|/zhuǎn huàn/|Conversion
-转交|/zhuǎn jiāo/|Transfer
-转让|/zhuǎn ràng/|transfer
-转身|/zhuǎn shēn/|Turn around
-转移|/zhuǎn yí/|Transfer
-转|/zhuàn/|change
-转动|/zhuàn dòng/|Rotation
-装备|/zhuāng bèi/|equipment
-庄稼|/zhuāng jia/|crops
-追究|/zhuī jiū/|Pursue
-捉|/zhuō/|catch
-资本|/zī běn/|capital
-资产|/zī chǎn/|assets
-自豪|/zì háo/|pride
-自来水|/zì lái shuǐ/|tap water
-自律|/zì lǜ/|self-discipline
-字幕|/zì mù/|subtitle
-自杀|/zì shā/|suicide
-自我|/zì wǒ/|self
-自言自语|/zì yán zì yǔ/|Talking to myself
-自愿|/zì yuàn/|voluntary
-自助|/zì zhù/|Self-help
-棕色|/zōng sè/|brown
-总裁|/zǒng cái/|President
-总计|/zǒng jì/|total
-总理|/zǒng lǐ/|Prime Minister
-总算|/zǒng suàn/|Finally
-粽子|/zòng zi/|Zongzi
-走廊|/zǒu láng/|corridor
-足|/zú/|foot
-足以|/zú yǐ/|sufficient
-阻碍|/zǔ ài/|Obstacles
-阻挡|/zǔ dǎng/|Block
-祖国|/zǔ guó/|motherland
-祖先|/zǔ xiān/|ancestor
-钻|/zuān/|Drill
-罪|/zuì/|crime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
