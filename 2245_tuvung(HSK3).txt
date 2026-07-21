@@ -3,7 +3,7 @@
 安装	/ān zhuāng/	Lắp đặt, cài đặt
 按	/àn/	Ấn, bấm, nhấn
 按照	/ànzhào/	Theo, dựa theo
-把|/bǎ/|Đem, lấy,Cái (dùng cho đồ vật có tay cầm)
+把	/bǎ/	Đem, lấy,Cái (dùng cho đồ vật có tay cầm)
 把握	/bǎwò/	Nắm chắc, nắm bắt
 白	/bái/	Uổng công, vô ích
 白菜	/báicài/	Cải trắng
@@ -48,7 +48,7 @@
 表明	/biǎomíng/	Thể hiện, bày tỏ
 表现	/biǎoxiàn/	Biểu hiện
 表演	/biǎoyǎn/	Biểu diễn
-并	/bìng/	Và, hơn nữa, mà còn|Cùng, tất cả đều
+并	/bìng/	Và, hơn nữa, mà còn,Cùng, tất cả đều
 并且	/bìngqiě/	Đồng thời, hơn nữa
 播出	/bōchū/	Phát sóng
 播放	/bōfàng/	Phát (video, nhạc)
@@ -99,7 +99,7 @@
 充满	/chōngmǎn/	Tràn đầy
 重	/chóng/	Lặp lại, một lần nữa
 初	/chū/	Ban đầu, lúc đầu
-初一	/chū yī/	Lớp 7|mùng một tết
+初一	/chū yī/	Lớp 7,mùng một tết
 初步	/chūbù/	Sơ bộ, bước đầu
 初级	/chūjí/	Sơ cấp
 初中	/chūzhōng/	Trung học cơ sở
@@ -168,7 +168,7 @@
 对象	/duìxiàng/	Đối tượng
 顿	/dùn/	Bữa; phần
 发表	/fābiǎo/	Bày tỏ, đưa ra, phát biểu
-发出	/fāchū/	Phát ra (âm thanh)|xuất phát; khởi hành
+发出	/fāchū/	Phát ra (âm thanh),xuất phát; khởi hành
 发达	/fādá/	Phát triển
 发动	/fādòng/	Khởi động; bắt đầu
 发明	/fāmíng/	Phát minh
@@ -192,7 +192,7 @@
 飞行	/fēixíng/	Bay lượn
 费	/fèi/	Phí; lệ phí
 费用	/fèiyòng/	Chi phí
-分别	/fēnbié/	Chia tay; tạm biệt; xa nhau|phân biệt
+分别	/fēnbié/	Chia tay; tạm biệt; xa nhau,phân biệt
 分配	/fēnpèi/	Phân công; bố trí
 分组	/fēnzǔ/	Phân nhóm; chia tổ
 丰富	/fēngfù/	Phong phú
@@ -324,7 +324,7 @@
 纪念	/jìniàn/	Kỷ niệm
 技术	/jìshù/	Kỹ thuật
 继续	/jìxù/	Tiếp tục
-加工	/jiā gōng/	Gia công|chế biến
+加工	/jiā gōng/	Gia công,chế biến
 加快	/jiākuài/	Tăng tốc
 加强	/jiāqiáng/	Tăng cường
 家具	/jiājù/	Đồ nội thất
@@ -466,8 +466,8 @@
 旅行社	/lǚxíngshè/	Công ty du lịch
 绿茶	/lǜchá/	Trà xanh
 乱	/luàn/	Lộn xộn
-落后	/luòhòu/	Thụt lùi, lùi lại|lạc hậu, tụt hậu
-麻烦	/máfan/	Làm phiền|phiền phức
+落后	/luòhòu/	Thụt lùi, lùi lại,lạc hậu, tụt hậu
+麻烦	/máfan/	Làm phiền,phiền phức
 马	/mǎ/	Con ngựa
 满足	/mǎnzú/	Hài lòng, thỏa mãn
 慢慢	/mànmàn/	Từ từ
@@ -482,7 +482,7 @@
 美食	/měishí/	Ẩm thực ngon, món ngon
 美术	/měishù/	Mỹ thuật
 美元	/měiyuán/	Đô la mỹ
-迷	/mí/	Mê, thích|lạc đường, không nhận ra
+迷	/mí/	Mê, thích,lạc đường, không nhận ra
 米	/mǐ/	Gạo
 面对	/miànduì/	Đối mặt
 面积	/miànjī/	Diện tích
@@ -516,7 +516,7 @@
 农民	/nóngmín/	Nông dân
 农业	/nóngyè/	Nông nghiệp
 女子	/nǚzǐ/	Phụ nữ
-暖和	/nuǎnhuo/	Ấm áp|Làm cho ấm
+暖和	/nuǎnhuo/	Ấm áp,Làm cho ấm
 怕	/pà/	Sợ
 拍	/pāi/	Chụp, chụp ảnh
 排	/pái/	Xếp hàng, sắp xếp
@@ -567,7 +567,7 @@
 庆祝	/qìngzhù/	chúc mừng
 球迷	/qiúmí/	người hâm mộ bóng
 区	/qū/	khu, vùng
-区别	/qūbié/	điểm khác nhau, sự khác biệt|phân biệt
+区别	/qūbié/	điểm khác nhau, sự khác biệt,phân biệt
 取消	/qǔxiāo/	hủy bỏ, xóa bỏ
 去世	/qùshì/	qua đời, mất
 全场	/quánchǎng/	cả khán phòng, toàn bộ khán giả
@@ -594,7 +594,7 @@
 认出	/rènchū/	nhận ra
 认得	/rèndé/	nhận ra, biết
 认可	/rènkě/	công nhận, thừa nhận, chấp nhận
-任	/rèn/	bổ nhiệm, đảm nhiệm, nhận chức vụ|bất luận, cho dù
+任	/rèn/	bổ nhiệm, đảm nhiệm, nhận chức vụ,bất luận, cho dù
 任何	/rènhé/	bất cứ, bất kỳ
 任务	/rènwù/	nhiệm vụ
 仍	/réng/	vẫn, vẫn cứ, vẫn tiếp tục
@@ -621,28 +621,28 @@
 身份证	/shēnfènzhèng/	Chứng minh nhân dân, thẻ căn cước
 深	/shēn/	Sâu sắc, sâu đậm
 深刻	/shēnkè/	sâu sắc, sâu đậm
-深入	/shēnrù/	Đi sâu vào, thâm nhập|Sâu sắc, chuyên sâu
-升	/shēng/	Nâng lên, tăng lên|Lít
+深入	/shēnrù/	Đi sâu vào, thâm nhập,Sâu sắc, chuyên sâu
+升	/shēng/	Nâng lên, tăng lên,Lít
 生	/shēng/	Sống, tươi
-生产	/shēngchǎn/	Sinh đẻ|Sản xuất
-生存	/shēngcún/	Sống sót, tồn tại|Sự tồn tại
+生产	/shēngchǎn/	Sinh đẻ,Sản xuất
+生存	/shēngcún/	Sống sót, tồn tại,Sự tồn tại
 生动	/shēngdòng/	Sinh động, sống động
 生命	/shēngmìng/	Sinh mệnh, sự sống
 生意	/shēngyi/	Kinh doanh, buôn bán
 生长	/shēngzhǎng/	Sinh trưởng, phát triển
-声明	/shēngmíng/	Công bố, tuyên bố|Tuyên bố, thông báo
-胜	/shèng/	Đẹp|Thắng, vượt qua
-胜利	/shènglì/	Chiến thắng, thắng lợi|Đạt được, thành công
+声明	/shēngmíng/	Công bố, tuyên bố,Tuyên bố, thông báo
+胜	/shèng/	Đẹp,Thắng, vượt qua
+胜利	/shènglì/	Chiến thắng, thắng lợi,Đạt được, thành công
 失去	/shīqù/	Mất đi, đánh mất
 石头	/shítou/	Hòn đá
 石油	/shíyóu/	Dầu mỏ, dầu thô
-时	/shí/	Thời gian, mùa, giờ giấc, thời cơ|Hiện tại, hợp thời, đúng lúc|Khi, lúc, thỉnh thoảng, thường xuyên|Giờ
+时	/shí/	Thời gian, mùa, giờ giấc, thời cơ,Hiện tại, hợp thời, đúng lúc,Khi, lúc, thỉnh thoảng, thường xuyên,Giờ
 时代	/shídài/	Thời đại, kỷ nguyên
-时刻	/shíkè/	Thời khắc, thời điểm|Thường xuyên, luôn luôn
+时刻	/shíkè/	Thời khắc, thời điểm,Thường xuyên, luôn luôn
 实际上	/shíjìshang/	Trên thực tế, thực ra
 实力	/shílì/	Thực lực
 实行	/shíxíng/	Thực hiện, thi hành, áp dụng
-实验	/shíyàn/	Thí nghiệm, thực nghiệm|Làm thí nghiệm
+实验	/shíyàn/	Thí nghiệm, thực nghiệm,Làm thí nghiệm
 实验室	/shíyànshì/	Phòng thí nghiệm
 食品	/shípǐn/	Thực phẩm, thức ăn
 使	/shǐ/	Khiến, làm cho, dùng
@@ -657,12 +657,12 @@
 事实上	/shìshíshang/	Trên thực tế, thật ra
 事业	/shìyè/	Sự nghiệp
 试题	/shìtí/	Đề thi, câu hỏi thi
-试验	/shìyàn/	Thử nghiệm, thí nghiệm|Làm thí nghiệm
+试验	/shìyàn/	Thử nghiệm, thí nghiệm,Làm thí nghiệm
 适合	/shìhé/	Phù hợp, hợp với
 适应	/shìyìng/	Thích nghi, thích ứng
 适用	/shìyòng/	Áp dụng, sử dụng, hữu dụng
 室	/shì/	Phòng, căn phòng
-收费	/shōufèi/	Thu phí, tính phí|Tiền phí, lệ phí
+收费	/shōufèi/	Thu phí, tính phí,Tiền phí, lệ phí
 收看	/shōukàn/	Xem, theo dõi
 收听	/shōutīng/	Nghe
 收音机	/shōuyīnjī/	Máy thu thanh, radio
@@ -678,28 +678,28 @@
 熟人	/shúrén/	Người quen
 属	/shǔ/	Thuộc, thuộc về, tuổi (con giáp)
 属于	/shǔyú/	Thuộc về, là của
-束	/shù/	Bó, chùm|Buộc, trói, bó lại|Dùng cho những vật kết thành bó
+束	/shù/	Bó, chùm,Buộc, trói, bó lại,Dùng cho những vật kết thành bó
 数量	/shùliàng/	Số lượng
-双	/shuāng/	Một cặp, một đôi|Cặp, đôi|Đôi, gấp đôi
+双	/shuāng/	Một cặp, một đôi,Cặp, đôi,Đôi, gấp đôi
 双方	/shuāngfāng/	Hai bên, đôi bên
 思想	/sīxiǎng/	Tư tưởng, suy nghĩ, quan điểm
 死	/sǐ/	Chết, qua đời
 速度	/sùdù/	Tốc độ, nhịp độ
-随	/suí/	Cùng với, theo|Đi theo, theo
-所	/suǒ/	Nơi, chỗ|Căn, ngôi, nơi
+随	/suí/	Cùng với, theo,Đi theo, theo
+所	/suǒ/	Nơi, chỗ,Căn, ngôi, nơi
 所长	/suǒzhǎng/	Sở trưởng, viện trưởng
 所长	/suǒcháng/	Sở trường, điểm mạnh
-台	/tái/	Cái bục, cái đài, sân khấu|Cái, chiếc
+台	/tái/	Cái bục, cái đài, sân khấu,Cái, chiếc
 谈	/tán/	Nói, thảo luận, bàn luận
-谈话	/tánhuà/	Nói chuyện, trò chuyện|Cuộc nói chuyện, buổi trò chuyện
-谈判	/tánpàn/	Đàm phán, thương lượng|Cuộc đàm phán
+谈话	/tánhuà/	Nói chuyện, trò chuyện,Cuộc nói chuyện, buổi trò chuyện
+谈判	/tánpàn/	Đàm phán, thương lượng,Cuộc đàm phán
 汤	/tāng/	Canh, súp
 糖	/táng/	Kẹo, đường
 特色	/tèsè/	Đặc sắc, nét đặc trưng
-提前	/tíqián/	Làm sớm hơn|Trước, sớm hơn
+提前	/tíqián/	Làm sớm hơn,Trước, sớm hơn
 提问	/tíwèn/	Hỏi, đưa ra câu hỏi
 题目	/tímù/	Đề bài
-体会	/tǐhuì/	Sự lĩnh hội, sự cảm nhận|Lĩnh hội, thấu hiểu, cảm nhận
+体会	/tǐhuì/	Sự lĩnh hội, sự cảm nhận,Lĩnh hội, thấu hiểu, cảm nhận
 体现	/tǐxiàn/	Thể hiện, biểu hiện
 体验	/tǐyàn/	Trải nghiệm, kinh nghiệm
 天空	/tiānkōng/	Bầu trời
@@ -722,12 +722,12 @@
 痛苦	/tòngkǔ/	Đau khổ
 头	/tóu/	Cái đầu
 头脑	/tóunǎo/	Đầu óc, tư duy
-突出	/tūchū/	Làm nổi bật|Nổi bật, xuất sắc
+突出	/tūchū/	Làm nổi bật,Nổi bật, xuất sắc
 突然	/tūrán/	Đột nhiên
 图	/tú/	Tranh, ảnh
 图画	/túhuà/	Tranh vẽ, bức họa
 土	/tǔ/	Đất
-团	/tuán/	Đoàn, nhóm|Chỉ vật có hình tròn, khối tròn
+团	/tuán/	Đoàn, nhóm,Chỉ vật có hình tròn, khối tròn
 团结	/tuánjié/	Đoàn kết, gắn bó, hợp tác
 团体	/tuántǐ/	Đoàn thể, tập thể, tổ chức
 推动	/tuīdòng/	Thúc đẩy, xúc tiến
@@ -741,22 +741,22 @@
 外面	/wàimiàn/	Bên ngoài, bề ngoài
 外文	/wàiwén/	Ngoại ngữ, tiếng nước ngoài
 完美	/wánměi/	Hoàn mỹ, hoàn hảo
-完善	/wánshàn/	Làm cho hoàn chỉnh, cải tiến|Hoàn thiện, đầy đủ, hoàn chỉnh
+完善	/wánshàn/	Làm cho hoàn chỉnh, cải tiến,Hoàn thiện, đầy đủ, hoàn chỉnh
 完整	/wánzhěng/	Nguyên vẹn, đầy đủ, trọn vẹn
 玩具	/wánjù/	Đồ chơi
 往往	/wăngwăng/	Thường thường, luôn luôn
-危害	/wēihài/	Gây hại, tổn hại|Mối nguy hại, sự tổn hại
-危险	/wēixiǎn/	Nguy hiểm|Mối nguy hiểm, sự nguy hiểm
-为	/wéi/	Là, trở thành, làm|Vì, vì (một mục đích)
+危害	/wēihài/	Gây hại, tổn hại,Mối nguy hại, sự tổn hại
+危险	/wēixiǎn/	Nguy hiểm,Mối nguy hiểm, sự nguy hiểm
+为	/wéi/	Là, trở thành, làm,Vì, vì (một mục đích)
 围	/wéi/	Vây quanh, bao vây
 伟大	/wěidà/	Vĩ đại, lớn lao
-卫生	/wèishēng/	Vệ sinh|Sạch sẽ, hợp vệ sinh
+卫生	/wèishēng/	Vệ sinh,Sạch sẽ, hợp vệ sinh
 卫生间	/wèishēngjiān/	Nhà vệ sinh
 为了	/wèile/	Để, vì (mục đích)
-温暖	/wēnnuǎn/	Ấm áp|Sưởi ấm, làm cho ấm
+温暖	/wēnnuǎn/	Ấm áp,Sưởi ấm, làm cho ấm
 文化	/wénhuà/	Văn hóa
 文件	/wénjiàn/	Tài liệu, văn kiện
-文明	/wénmíng/	Văn minh|Văn minh, lịch sự, có văn hóa
+文明	/wénmíng/	Văn minh,Văn minh, lịch sự, có văn hóa
 文学	/wénxué/	Văn học
 文章	/wénzhāng/	Bài văn, bài viết
 文字	/wénzì/	Chữ viết, văn tự
@@ -766,23 +766,23 @@
 武术	/wŭshù/	Võ thuật
 舞台	/wŭtái/	Sân khấu
 西部	/xībù/	Miền Tây, phía Tây
-希望	/xīwàng/	Hy vọng, mong muốn|Hy vọng, niềm hy vọng
+希望	/xīwàng/	Hy vọng, mong muốn,Hy vọng, niềm hy vọng
 系	/xì/	Buộc, thắt
 下来	/xiàlái/	Xuống (hướng từ xa đến gần)
 下面	/xiàmiàn/	Bên dưới, phía dưới
 下去	/xiàqù/	Xuống (hướng từ gần ra xa), tiếp tục
-先进	/xiānjìn/	Tiên tiến, hiện đại|Người hoặc tập thể tiên tiến, gương mẫu
+先进	/xiānjìn/	Tiên tiến, hiện đại,Người hoặc tập thể tiên tiến, gương mẫu
 显得	/xiǎnde/	Dường như, có vẻ
 显然	/xiǎnrán/	Hiển nhiên, rõ ràng
 显示	/xiǎnshì/	Hiển thị, thể hiện, cho thấy
 现场	/xiànchăng/	Hiện trường, tại chỗ
-现代	/xiàndài/	Hiện đại, thời hiện đại|Hiện tại, tân tiến
+现代	/xiàndài/	Hiện đại, thời hiện đại,Hiện tại, tân tiến
 现金	/xiànjīn/	Tiền mặt
-现实	/xiànshí/	Hiện thực, thực tế|Thực tế, thực dụng
+现实	/xiànshí/	Hiện thực, thực tế,Thực tế, thực dụng
 现象	/xiànxiàng/	Hiện tượng
 线	/xiàn/	Sợi, dây, tuyến, đường
 相比	/xiāngbǐ/	So với, so sánh
-相当	/xiāngdāng/	Khá, tương đối|Tương đương, xứng đáng
+相当	/xiāngdāng/	Khá, tương đối,Tương đương, xứng đáng
 相关	/xiāngguān/	Có liên quan, liên quan đến
 相互	/xiānghù/	Lẫn nhau, qua lại
 相似	/xiāngsì/	Tương tự, giống nhau
@@ -801,9 +801,9 @@
 行李	/xíngli/	Hành lý
 形成	/xíngchéng/	Hình thành, tạo thành
 形式	/xíngshì/	Hình thức, kiểu cách
-形象	/xíngxiàng/	Hình tượng, hình ảnh|Trực quan, dễ hình dung, sinh động
+形象	/xíngxiàng/	Hình tượng, hình ảnh,Trực quan, dễ hình dung, sinh động
 形状	/xíngzhuàng/	Hình dạng, hình thù
-幸福	/xìngfú/	Hạnh phúc|Sự hạnh phúc, viên mãn
+幸福	/xìngfú/	Hạnh phúc,Sự hạnh phúc, viên mãn
 幸运	/xìngyùn/	May mắn, sự may mắn
 性(积极性）	/xìng (jījíxìng)/	Tính (Bản chất, thuộc tính)
 性别	/xìngbié/	Giới tính
@@ -811,12 +811,12 @@
 修	/xiū/	Sửa chữa, tu sửa
 修改	/xiūgǎi/	Sửa đổi, chỉnh sửa
 需求	/xūqiú/	Nhu cầu
-需要	/xūyào/	Cần, cần phải|Nhu cầu, sự cần thiết
+需要	/xūyào/	Cần, cần phải,Nhu cầu, sự cần thiết
 宣布	/xuānbù/	Tuyên bố, công bố
-宣传	/xuānchuán/	Tuyên truyền, quảng bá|Sự tuyên truyền, hoạt động tuyên truyền
+宣传	/xuānchuán/	Tuyên truyền, quảng bá,Sự tuyên truyền, hoạt động tuyên truyền
 选手	/xuǎnshǒu/	Tuyển thủ, vận động viên
 学费	/xuéfèi/	Học phí
-训练	/xùnliàn/	Huấn luyện, đào tạo, rèn|Sự huấn luyện, khóa đào tạo
+训练	/xùnliàn/	Huấn luyện, đào tạo, rèn,Sự huấn luyện, khóa đào tạo
 压	/yā/	Đè, nén, áp
 压力	/yālì/	Áp lực, áp suất
 烟	/yān/	Khói, thuốc lá
@@ -824,7 +824,7 @@
 演	/yǎn/	Diễn (xuất), trình diễn
 演唱	/yǎnchàng/	Hát (biểu diễn), trình bày
 演唱会	/yǎnchànghuì/	Buổi hòa nhạc, concert (ca nhạc)
-演出	/yǎnchū/	Biểu diễn, trình diễn|Buổi biểu diễn, tiết mục
+演出	/yǎnchū/	Biểu diễn, trình diễn,Buổi biểu diễn, tiết mục
 演员	/yǎnyuán/	Diễn viên
 羊	/yáng/	Dê, cừu
 阳光	/yángguāng/	Ánh nắng, ánh mặt trời
@@ -835,10 +835,10 @@
 以来	/yǐlái/	Kể từ (một thời điểm nào đó)
 一方面	/yīfāngmiàn/	Một mặt, một phương diện
 艺术	/yìshù/	Nghệ thuật
-意外	/yìwài/	Bất ngờ, ngoài ý muốn|Tai nạn, sự cố, việc ngoài ý muốn
+意外	/yìwài/	Bất ngờ, ngoài ý muốn,Tai nạn, sự cố, việc ngoài ý muốn
 意义	/yìyì/	Ý nghĩa
 因此	/yīncǐ/	Do đó, vì vậy, cho nên
-银	/yín/	Bạc (kim loại); màu bạc, tiền|Thuộc về bạc, có màu trắng bạc
+银	/yín/	Bạc (kim loại); màu bạc, tiền,Thuộc về bạc, có màu trắng bạc
 银牌	yínpái	Huy chương bạc
 印象	/yìnxiàng/	Ấn tượng
 应当	/yīngdāng/	Nên, phải, cần phải
@@ -855,12 +855,12 @@
 邮票	/yóupiào/	Tem thư
 邮箱	/yóuxiāng/	Hộp thư
 游	/yóu/	Bơi, đi chơi, du lịch
-游戏	/yóuxì/	Trò chơi|Chơi đùa, chơi trò chơi
+游戏	/yóuxì/	Trò chơi,Chơi đùa, chơi trò chơi
 游泳	/yóuyǒng/	Bơi lội
 有的是	/yǒu de shì/	Có rất nhiều, có đủ
 有利	/yǒulì/	Có lợi, có ích
 有效	/yǒuxiào/	Có hiệu lực, hiệu quả
-预报	/yùbào/	Dự báo|Bản tin dự báo, lời dự báo
+预报	/yùbào/	Dự báo,Bản tin dự báo, lời dự báo
 预防	/yùfáng/	Phòng ngừa, đề phòng
 预计	/yùjì/	Dự tính, dự kiến
 预习	/yùxí/	Xem trước bài, chuẩn bị bài
@@ -869,7 +869,7 @@
 愿望	/yuànwàng/	Nguyện vọng, ước muốn
 约	/yuē/	Hẹn, ước hẹn
 乐队	/yuèduì/	Ban nhạc
-运输	/yùnshū/	Vận chuyển, chuyên chở|sự vận chuyển, việc vận tải
+运输	/yùnshū/	Vận chuyển, chuyên chở,sự vận chuyển, việc vận tải
 杂志	/zázhì/	Tạp chí
 早已	/zǎoyǐ/	Đã sớm, từ lâu
 造	/zào/	Chế tạo, xây dựng
@@ -879,7 +879,7 @@
 增长	/zēngzhǎng/	Tăng trưởng, sự tăng trưởng
 展开	/zhǎnkāi/	Mở ra, triển khai
 张	/zhāng/	Tờ, tấm (dùng cho các vật phẳng)
-照	/zhào/	Chiếu sáng, chụp (ảnh)|Dựa theo, căn cứ vào|Ảnh chụp, giấy tờ, giấy phép
+照	/zhào/	Chiếu sáng, chụp (ảnh),Dựa theo, căn cứ vào,Ảnh chụp, giấy tờ, giấy phép
 者(志愿者)	/zhě (zhìyuànzhě)/	Người (Tình nguyện viên)
 真实	/zhēnshí/	Chân thật, có thật, thật lòng
 争	/zhēng/	Tranh giành, tranh cãi
@@ -893,10 +893,10 @@
 整整	/zhěngzhěng/	Trọn, đúng, tròn
 正(形)	/zhèng/	Chính, thẳng, đúng
 正式	/zhèngshì/	Chính thức
-证	/zhèng/	Chứng nhận, chứng minh|Chứng cứ, giấy chứng
+证	/zhèng/	Chứng nhận, chứng minh,Chứng cứ, giấy chứng
 证件	/zhèngjiàn/	Giấy tờ tùy thân, chứng từ
 证据	zhèngjù/	Chứng cứ
-证明	/zhèngmíng/	Chứng minh|Giấy chứng nhận, chứng minh thư
+证明	/zhèngmíng/	Chứng minh,Giấy chứng nhận, chứng minh thư
 支(量)	/zhī/	Cây, cái (dùng cho vật dài, que)
 支持	/zhīchí/	Ủng hộ, hỗ trợ
 支付	/zhīfù/	Chi trả, thanh toán
@@ -909,14 +909,14 @@
 职工	/zhígōng/	Công nhân và nhân viên
 职业	/zhíyè/	Nghề nghiệp
 只好	/zhǐhǎo/	Đành phải, chỉ còn cách
-只是	/zhǐshì/	Chỉ là, chẳng qua là|Nhưng mà, chỉ có điều
-只有	/zhǐyǒu/	Chỉ khi|Chỉ có, duy nhất
+只是	/zhǐshì/	Chỉ là, chẳng qua là,Nhưng mà, chỉ có điều
+只有	/zhǐyǒu/	Chỉ khi,Chỉ có, duy nhất
 指	/zhǐ/	Chỉ (ngón tay), chỉ vào
 指出	/zhǐchū/	Chỉ ra
-指导	/zhǐdǎo/	Sự hướng dẫn, sự chỉ đạo|Hướng dẫn, chỉ đạo
+指导	/zhǐdǎo/	Sự hướng dẫn, sự chỉ đạo,Hướng dẫn, chỉ đạo
 至今	/zhìjīn/	Cho đến nay, đến tận bây giờ
 至少	/zhìshǎo/	Ít nhất, tối thiểu
-志愿	/zhìyuàn/	Nguyện vọng, ước muốn|Tự nguyện
+志愿	/zhìyuàn/	Nguyện vọng, ước muốn,Tự nguyện
 志愿者	/zhìyuànzhě/	Tình nguyện viên
 制定	/zhìdìng/	Đề ra, ban hành
 制度	/zhìdù/	Chế độ, quy định
@@ -935,7 +935,7 @@
 主动	/zhǔdòng/	Chủ động
 主任	/zhǔrèn/	Chủ nhiệm, trưởng phòng
 主意	/zhǔyi/	Chủ kiến, ý kiến
-主张	/zhǔzhāng/	Chủ trương, đề xướng|Quan điểm, đề xuất
+主张	/zhǔzhāng/	Chủ trương, đề xướng,Quan điểm, đề xuất
 注意	/zhùyì/	Chú ý, để ý, lưu tâm
 祝	/zhù/	Chúc (chúc mừng, cầu chúc)
 抓	/zhuā/	Bắt, tóm, nắm
@@ -943,29 +943,29 @@
 专家	/zhuānjiā/	Chuyên gia
 专门	/zhuānmén/	Chuyên môn, đặc biệt
 专题	/zhuāntí/	Chuyên đề, chủ đề chuyên sâu
-专业	/zhuānyè/	Chuyên ngành, ngành học|Chuyên môn, trình độ
+专业	/zhuānyè/	Chuyên ngành, ngành học,Chuyên môn, trình độ
 转	/zhuǎn/	Chuyển, quay, xoay
 转变	/zhuǎnbiàn/	Chuyển biến, thay đổi
 状况	/zhuàng kuàng/	Tình trạng, trạng thái
 状态	/zhuàngtài/	Trạng thái
 追	/zhuī/	Đuổi, theo đuổi
-准	/zhǔn/	Chuẩn, chính xác, đúng|Chắc chắn, nhất định, đảm bảo|Cho phép, đồng ý, chấp thuận
+准	/zhǔn/	Chuẩn, chính xác, đúng,Chắc chắn, nhất định, đảm bảo,Cho phép, đồng ý, chấp thuận
 资格	/zīgé/	Tư cách, bằng cấp, điều kiện
 资金	/zījīn/	Vốn, tiền vốn, quỹ
 子女	/zǐnǚ/	Con cái (con trai và con gái)
 自从	/zìcóng/	Kể từ, từ khi
-自动	/zìdòng/	Tự giác, tự nguyện|Có khả năng tự động
-自觉	/zìjué/	Tự giác|Tự ý thức, tự nhận thức
-自然	/zìrán/	Tự nhiên, thiên nhiên|Tự nhiên|Lẽ đương nhiên
+自动	/zìdòng/	Tự giác, tự nguyện,Có khả năng tự động
+自觉	/zìjué/	Tự giác,Tự ý thức, tự nhận thức
+自然	/zìrán/	Tự nhiên, thiên nhiên,Tự nhiên,Lẽ đương nhiên
 自身	/zìshēn/	Bản thân, chính mình
 自主	/zìzhǔ/	Tự chủ, độc lập
-总	/zǒng/	Tập hợp, tổng hợp|Tổng, người đứng đầu|Luôn luôn, lúc nào cũng
-总结	/zǒngjié/	Kết luận, đúc kết|Tổng kết
+总	/zǒng/	Tập hợp, tổng hợp,Tổng, người đứng đầu,Luôn luôn, lúc nào cũng
+总结	/zǒngjié/	Kết luận, đúc kết,Tổng kết
 总是	/zǒngshì/	Luôn luôn, lúc nào cũng
-足够	/zúgòu/	Đủ đầy, thỏa mãn|Đủ
+足够	/zúgòu/	Đủ đầy, thỏa mãn,Đủ
 足球	/zúqiú/	Bóng đá
-组合	/zǔhé/	Tổ hợp, kết hợp|Lắp ráp
-左右	/zuǒyòu/	Xung quanh, khoảng|Chi phối, điều khiển
+组合	/zǔhé/	Tổ hợp, kết hợp,Lắp ráp
+左右	/zuǒyòu/	Xung quanh, khoảng,Chi phối, điều khiển
 作品	/zuòpǐn/	Tác phẩm
 作者	/zuòzhě/	Tác giả
 做客	/zuòkè/	Làm khách, đến thăm
