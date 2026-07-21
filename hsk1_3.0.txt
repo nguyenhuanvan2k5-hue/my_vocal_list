@@ -71,7 +71,7 @@
 71	地方	dìfang	nơi, địa phương
 72	地上	dìshang	trên mặt đất
 73	地图	dìtú	bản đồ
-74	弟弟	dìdi|dì	em trai
+74	弟弟	dìdi	em trai
 75	第	dì（dì-èr）	thứ ... (số thứ tự)
 76	点	diǎn	ít, chút, hơi
 77	电	diàn	điện, pin.
